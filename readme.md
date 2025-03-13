@@ -4,7 +4,7 @@ Avanti Palestra
 
 <p align="center">
   <a href="https://github.com/EnzoAvanze">
-    <img src="" alt="Enzo Avanze" /></a>
+    /a>
 </p>
 
 <p align="center">
