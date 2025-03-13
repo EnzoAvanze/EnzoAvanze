@@ -6,9 +6,9 @@
   <a href="<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Big+Shoulders+Stencil&size=30&pause=1000&color=029520&background=00FF7700&width=435&lines=Enzo+Avanze;Seja+Bem-Vindo+ao+meu+perfil!" alt="Typing SVG" /></a>
 </p>
 
-# 🧙🏻‍♂️ Mago Raul
+# ⚽ Enzo Avanze
 
-**`Desenvolvedor FullStack`**
+**`Aluno Senai Jacob Lafer`**
 
 I am an 👨🏽‍🏫 Educator in Technology who Thrives through Learning and Teaching 🚀
 
@@ -24,7 +24,7 @@ A lifelong learner, he stays ahead of tech trends to ensure his students receive
 
 With clarity and creativity, he transforms complexity into inspiration, redefining what it means to teach technology. 🚀
 
-Follow in Instagram "[@rauln7](https://www.instagram.com/rauln7/)".
+Follow in Instagram "[@real_esperanca_ofc](https://www.instagram.com/real_esperanca_ofc/)".
 
 <p align="left">
     <a href="https://www.linkedin.com/in/raul-porto-lopes-8a866954/">
