@@ -1,12 +1,12 @@
 <p align="center">
   <a href="https://github.com/EnzoAvanze">
-    <img src="<a href=https://www.gifs-animados.net/><img src=https://lh3.ggpht.com/-1J4sL7NnXkg/Wm8fd7m3GYI/AAAAAAAAEiA/VpFvmu15zxwA8llig-hni02VYu71jGMpwCEwYBhgL/s0/enzo.gif></a>" /></a>
+    <img src="" /></a>
 </p>
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;Experienced%20UI%2FUX%20Designer;10%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/demo/?font=Big+Shoulders+Stencil&color=029520&background=00FF7700&center=true&lines=Enzo+Avanze;Seja+Bem-Vindo+ao+meu+perfil" /></a>
 </p>
 
 <!-- Social icons section -->
