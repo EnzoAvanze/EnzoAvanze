@@ -12,11 +12,9 @@
 
 Buscando evoluir cada vez mais!
 
-Camisa 9 do Real Esperança!
+João 16:33 "Eu digo isso para que, por estarem unidos comigo, vocês tenham paz. No mundo vocês vão sofrer; mas tenham coragem. Eu venci o mundo."
 
-Maior artilheiro da história do Real!
-
-Follow in Instagram "[@real_esperanca_ofc](https://www.instagram.com/real_esperanca_ofc/)".
+Follow in Instagram "[@enzo_avanze](https://www.instagram.com/enzo_avanze/)".
 
 <p align="left">
     <a href="linkedin.com/in/enzo-avanze-37a43b352/">
