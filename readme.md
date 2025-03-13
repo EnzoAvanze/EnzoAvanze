@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Big+Shoulders+Stencil&pause=1000&color=029520&background=00FF7700&center=true&vCenter=true&width=435&lines=Enzo+Avanze;Seja+Bem-Vindo+ao+meu+perfil!" alt="Typing SVG" <a/>
+    <img src="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Big+Shoulders+Stencil&pause=1000&color=029520&background=00FF7700&center=true&vCenter=true&width=700&lines=Enzo+Avanze;Seja+Bem-Vindo+ao+meu+perfil!" alt="Typing SVG" <a/>
 </p>
 
 <!-- Social icons section -->
