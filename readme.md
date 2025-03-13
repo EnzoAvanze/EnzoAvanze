@@ -3,8 +3,8 @@
 Avanti Palestra
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1">
-    <img src="(https://github.com/EnzoAvanze)" alt="Enzo Avanze" /></a>
+  <a href="https://github.com/EnzoAvanze">
+    <img src="" alt="Enzo Avanze" /></a>
 </p>
 
 <p align="center">
