@@ -12,6 +12,10 @@
 
 Buscando evoluir cada vez mais!
 
+Camisa 9 do Real Esperança!
+
+Maior artilheiro da história do Time
+
 Follow in Instagram "[@real_esperanca_ofc](https://www.instagram.com/real_esperanca_ofc/)".
 
 <p align="left">
