@@ -1,12 +1,12 @@
 <p align="center">
-  <a href="https://github.com/EnzoAvanze">
-    <img src="" /></a>
+  <a href="https://github.com/DenverCoder1">
+    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Jonah Lawrence" /></a>
 </p>
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/demo/?font=Big+Shoulders+Stencil&color=029520&background=00FF7700&center=true&lines=Enzo+Avanze;Seja+Bem-Vindo+ao+meu+perfil" /></a>
+    <img src="<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Big+Shoulders+Stencil&pause=1000&color=029520&background=00FF7700&center=true&vCenter=true&width=435&lines=Enzo+Avanze;Seja+Bem-Vindo+ao+meu+perfil!" alt="Typing SVG" /></a>" /></a>
 </p>
 
 <!-- Social icons section -->
